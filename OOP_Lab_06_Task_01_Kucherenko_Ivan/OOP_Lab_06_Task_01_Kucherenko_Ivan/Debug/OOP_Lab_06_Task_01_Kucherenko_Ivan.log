@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(9): error C2065: MyClass: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(9): error C2062: тип "int" не требуется
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(14): error C2065: Quee: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(14): error C2062: тип "int" не требуется
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(15): error C2065: quee: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(16): error C2065: quee: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(17): error C2065: quee: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(19): error C2065: queue: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(117): error C3861: null: идентификатор не найден
