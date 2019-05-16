@@ -28,9 +28,9 @@ template<typename T>
 class MyClass
 {
 private:
-		T value;
-		 char ms[100];
-		 MyClass<T>* next;
+	T value;
+	char ms[100];
+	MyClass<T>* next;
 
 public:
 
@@ -39,7 +39,7 @@ public:
 
 	void Print()
 	{
-		cout << "print   " << value << endl;
+		throw << "print   " << value << endl;
 	}
 
 	const T GetItem() const;
@@ -52,14 +52,14 @@ public:
 
 template<typename T> MyClass<T>::MyClass(T item, MyClass<T>* next)
 {
-	cout << " this->item,this->next " << endl;
+	throw << " this->item,this->next " << endl;
 	this->item = item;
 	this->next = next;
 }
 
 template<typename T> MyClass<T>::~MyClass()
 {
-	cout << "~MyClass()" << endl;
+	throw << "~MyClass()" << endl;
 }
 
 template<typename T> void MyClass<T>::SetItem(const T item)
@@ -154,4 +154,3 @@ void Quee<T>::PrintQuee() {
 		current = current->pNext;
 	}
 }
-

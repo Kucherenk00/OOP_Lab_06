@@ -1,4 +1,80 @@
-﻿  Source.cpp
+﻿  MyClass.cpp
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(5): error C3646: value: неизвестный спецификатор переопределения
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(7): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(7): error C2238: непредвиденные лексемы перед ";"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(11): error C2061: синтаксическая ошибка: идентификатор "T"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(19): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(19): error C3646: GetItem: неизвестный спецификатор переопределения
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(19): error C2059: синтаксическая ошибка: )
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(19): error C2238: непредвиденные лексемы перед ";"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(20): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(20): error C2238: непредвиденные лексемы перед ";"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(21): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "item"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(21): error C3646: item: неизвестный спецификатор переопределения
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(21): error C2059: синтаксическая ошибка: )
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(22): error C2143: синтаксическая ошибка: отсутствие ")" перед "<"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(22): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(22): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(22): error C2059: синтаксическая ошибка: )
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(22): error C2238: непредвиденные лексемы перед ";"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(16): error C2065: cout: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(16): error C2065: value: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(16): error C2065: endl: необъявленный идентификатор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(27): error C2988: неопознанное объявление или определение шаблона
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(27): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(28): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(28): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(34): error C2988: неопознанное объявление или определение шаблона
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(34): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(34): error C2523: ::~MyClass: несовпадение тегов деструктор
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(35): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(35): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): error C2988: неопознанное объявление или определение шаблона
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): error C2182: MyClass: недопустимое использование типа "void"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): error C2039: SetItem: не является членом "`global namespace'"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(40): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(40): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(44): error C2988: неопознанное объявление или определение шаблона
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(44): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(44): error C2182: MyClass: недопустимое использование типа "void"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(44): error C2374: MyClass: переопределение; множественная инициализация
+  c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): note:  см. объявление "MyClass"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(44): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(44): error C2039: SetNext: не является членом "`global namespace'"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(45): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(45): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(49): error C2988: неопознанное объявление или определение шаблона
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(49): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(49): error C2373: MyClass: переопределение; различные модификаторы типа
+  c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(39): note:  см. объявление "MyClass"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(49): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(49): error C2039: GetItem: не является членом "`global namespace'"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(50): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(50): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(54): error C2988: неопознанное объявление или определение шаблона
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(54): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(54): error C2059: синтаксическая ошибка: <
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(54): error C2039: GetNext: не является членом "`global namespace'"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(55): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\myclass.h(55): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+  Quee.cpp
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(48): error C3861: NULL: идентификатор не найден
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(69): error C3861: NULL: идентификатор не найден
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(70): error C3861: cout: идентификатор не найден
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(70): error C3861: endl: идентификатор не найден
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.cpp(5): error C2955: "Quee": для использования класс шаблон требуется список аргументов шаблон
+  c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(4): note:  см. объявление "Quee"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.cpp(6): error C2509: {ctor}: функция-член не объявлена в "Quee"
+  c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(4): note:  см. объявление "Quee"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.cpp(10): error C2955: "Quee": для использования класс шаблон требуется список аргументов шаблон
+  c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(4): note:  см. объявление "Quee"
+c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.cpp(11): error C2509: {dtor}: функция-член не объявлена в "Quee"
+  c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\quee.h(4): note:  см. объявление "Quee"
+  Source.cpp
 c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(9): error C2065: MyClass: необъявленный идентификатор
 c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(9): error C2062: тип "int" не требуется
 c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(14): error C2065: Quee: необъявленный идентификатор
@@ -7,4 +83,4 @@ c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_0
 c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(16): error C2065: quee: необъявленный идентификатор
 c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(17): error C2065: quee: необъявленный идентификатор
 c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(19): error C2065: queue: необъявленный идентификатор
-c:\vs\oop\github\oop_lab_06\oop_lab_06_task_01_kucherenko_ivan\oop_lab_06_task_01_kucherenko_ivan\source.cpp(117): error C3861: null: идентификатор не найден
+  Создание кода...
